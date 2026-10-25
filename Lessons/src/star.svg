@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600"
+     data-id="star" data-title="Star" data-version="1">
+  <g id="star" data-kind="trace" data-tolerance="16" data-instruction="Trace the star without lifting.">
+    <polyline points="300,90 429.3,488 90.8,242 509.2,242 170.7,488 300,90" fill="none" stroke="black"/>
+  </g>
+  <g id="fill" data-kind="color" data-tolerance="20" data-instruction="Color the star (not scored yet).">
+    <polyline points="300,90 429.3,488 90.8,242 509.2,242 170.7,488 300,90" fill="gold"/>
+  </g>
+</svg>

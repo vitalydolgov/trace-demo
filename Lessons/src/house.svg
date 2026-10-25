@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600"
+     data-id="house" data-title="House" data-version="1">
+  <!-- One <g> per step, in order. The artist draws, the methodologist sets data-* attributes. -->
+  <g id="walls" data-kind="trace" data-tolerance="16" data-instruction="Draw the walls (a square).">
+    <path d="M150 300 L450 300 L450 520 L150 520 Z" fill="none" stroke="black"/>
+  </g>
+  <g id="roof" data-kind="trace" data-tolerance="16" data-instruction="Add the roof.">
+    <path d="M130 300 L300 120 L470 300" fill="none" stroke="black"/>
+  </g>
+  <g id="door" data-kind="trace" data-tolerance="14" data-instruction="Add the door.">
+    <path d="M260 520 V410 H340 V520" fill="none" stroke="black"/>
+  </g>
+  <g id="smoke" data-kind="trace" data-tolerance="14" data-instruction="Finish with a curl of smoke.">
+    <path d="M390 220 C370 180 420 160 400 120 C385 90 430 70 420 40" fill="none" stroke="black"/>
+  </g>
+</svg>

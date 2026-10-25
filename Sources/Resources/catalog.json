@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": "basics",
+      "title": "Basics",
+      "lessons": [
+        { "lessonId": "circle", "title": "Circle", "difficulty": 1, "isPremium": false, "contentVersion": 1 },
+        { "lessonId": "star",   "title": "Star",   "difficulty": 2, "isPremium": false, "contentVersion": 1 }
+      ]
+    },
+    {
+      "id": "objects",
+      "title": "Simple objects",
+      "lessons": [
+        { "lessonId": "house", "title": "House", "difficulty": 2, "isPremium": true, "contentVersion": 1 }
+      ]
+    }
+  ]
+}

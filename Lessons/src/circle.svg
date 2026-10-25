@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600"
+     data-id="circle" data-title="Circle" data-version="1">
+  <g id="step1" data-kind="trace" data-tolerance="18"
+     data-instruction="Trace the circle in one smooth stroke.">
+    <circle cx="300" cy="300" r="200" fill="none" stroke="black"/>
+  </g>
+</svg>
